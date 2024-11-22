@@ -1,0 +1,21 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+// Function to simulate getting an API response
+const char* getApiResponse() {
+    // In a real-world scenario, you would fetch data from an actual API
+    // For simplicity, returning a hardcoded JSON-like string in this example
+    return "{\"temperature\": 25.0, \"humidity\": 50.0, \"wind_speed\": 10.0, \"air_pressure\": 1010.0}";
+}
+
+int main() {
+    // Get the API response
+    const char* api_response = getApiResponse();
+
+    // Print the received API response
+    printf("Received API response: %s\n", api_response);
+
+    // Further processing of the API response (parsing, etc.) can be done here
+
+    return 0;
+}

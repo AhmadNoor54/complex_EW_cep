@@ -1,0 +1,6 @@
+Environmental Data Report
+-------------------------
+Report Time: 2024-11-20 19:41:51
+Average Temperature: 0.09°C
+Alert Message: ALERT: Average temperature low then the  threshold value !
+

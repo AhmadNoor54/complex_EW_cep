@@ -1,0 +1,6 @@
+Environmental Data Report
+-------------------------
+Average Temperature: 28.90°C
+Average Humidity: 65.00%
+Average Wind Speed: 1.54 m/s
+Average Air Pressure: 1010.00 hPa
